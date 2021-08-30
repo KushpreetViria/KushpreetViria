@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... programing and learning new things.
 - 🌱 I’m currently learning ... low level graphics APIs
 - 💞️ I’m looking to collaborate on ... anything fun or interesting
-- 📫 How to reach me ... viriak27@gmail.com
+- 📫 How to reach me ... kviria27@gmail.com
 
 <!---
 KushpreetViria/KushpreetViria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
